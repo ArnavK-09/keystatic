@@ -1,5 +1,15 @@
 # @keystatic/core
 
+## 0.1.6
+
+### Patch Changes
+
+- b28d194e: Add `previewUrl` option
+- 811c8749: Persist draft changes to entries to browser storage
+- 369cfff6: Remove unused code for old template deployment method
+- 6923f250: Add `storage.branchPrefix` option to allow enforcing a branch prefix
+  when creating new branches and viewing branches
+
 ## 0.1.5
 
 ### Patch Changes
